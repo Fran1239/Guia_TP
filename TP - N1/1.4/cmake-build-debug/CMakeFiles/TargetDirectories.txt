@@ -1,0 +1,3 @@
+C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/TP - N1/4/cmake-build-debug/CMakeFiles/4.dir
+C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/TP - N1/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/TP - N1/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
