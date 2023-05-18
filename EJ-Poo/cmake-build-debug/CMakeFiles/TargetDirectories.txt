@@ -1,3 +1,0 @@
-C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/EJ-Poo/cmake-build-debug/CMakeFiles/EJ_Poo.dir
-C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/EJ-Poo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/FRANCO/Documents/AA - PROGRAMACION II/GUIA TRABAJOS PRACTICOS/EJ-Poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
